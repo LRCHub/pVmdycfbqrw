@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Testify",
+  "base_artist": "void (Mournfinale)",
+  "createdAt": "2025-12-16T07:57:08.287229Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Testify",
+      "artist": "Roachford",
+      "has_synced": false,
+      "path": "select/01_Testify_Roachford.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Testify (Radio Edit)",
+      "artist": "M People",
+      "has_synced": false,
+      "path": "select/02_Testify_(Radio_Edit)_M_People.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Testify",
+      "artist": "The Simpsons",
+      "has_synced": true,
+      "path": "select/03_Testify_The_Simpsons.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Testify",
+      "artist": "Future",
+      "has_synced": true,
+      "path": "select/04_Testify_Future.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Testify",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/05_Testify_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Testify",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/06_Testify_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Testify (Album Version)",
+      "artist": "Rage Against the Machine",
+      "has_synced": true,
+      "path": "select/07_Testify_(Album_Version)_Rage_Against_the_Machine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Testify",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/08_Testify_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Testify",
+      "artist": "The Damned",
+      "has_synced": false,
+      "path": "select/09_Testify_The_Damned.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Testify (BBC session 25/11/1993)",
+      "artist": "The Damned",
+      "has_synced": false,
+      "path": "select/10_Testify_(BBC_session_25_11_1993)_The_Damned.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Testify",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/11_Testify_Meat_Loaf.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Testify - 2016 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/12_Testify_-_2016_Remaster_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Testify (2016 Remaster)",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/13_Testify_(2016_Remaster)_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Catch Me (Before I Have to Testify)",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/14_Catch_Me_(Before_I_Have_to_Testify)_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "TESTIFY",
+      "artist": "NEEDTOBREATHE",
+      "has_synced": true,
+      "path": "select/15_TESTIFY_NEEDTOBREATHE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Wanna Testify",
+      "artist": "Roger Taylor",
+      "has_synced": true,
+      "path": "select/16_I_Wanna_Testify_Roger_Taylor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Testify (feat. 星熊南巫)",
+      "artist": "void (Mournfinale)",
+      "has_synced": false,
+      "path": "select/pl_01_Testify_(feat._星熊南巫)_void_(Mournfinale).txt"
+    }
+  ]
+}
